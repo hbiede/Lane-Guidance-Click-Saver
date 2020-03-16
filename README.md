@@ -1,2 +1,2 @@
 # Lane-Guidance-Click-Saver
-A minor utility for WME lane guidance
+A simple utility to default to on for all straight "turns" in WME's lane guidance interface.
