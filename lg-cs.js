@@ -3,8 +3,8 @@
 // @author          HBiede
 // @namespace       hbiede.com
 // @description     Set the straight options by default on new lane guidance changes
-// @include         /^https:\/\/(beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor.*$/
-// @version         2020.03.16.001
+// @include         /^https:\/\/[(www)|(beta)]\.waze\.com\/(?!user\/)(.{2,6}\/)?editor.*$/
+// @version         2020.04.29.001
 // @grant           none
 // @license         MIT
 // @copyright       2020 HBiede
